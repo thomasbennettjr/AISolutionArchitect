@@ -1,8 +1,0 @@
-openai
-gradio
-cryptography
-huggingface_hub
-psutil
-pynvml
-py-cpuinfo
-flopth
