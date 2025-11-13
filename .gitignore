@@ -205,3 +205,13 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+
+
+/pluto_happy/
+/venv/
+AISA_Text_Moderation.ipynb
+app_part2.py
+kaggle.json
+/kaggle/
